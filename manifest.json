@@ -1,0 +1,23 @@
+{
+  "short_name": "Add to Homescreen Demo",
+  "name": "Test-App for Add to Homescreen",
+  "icons": [
+    {
+      "src": "icon-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "index.html?from_hs"
+}
