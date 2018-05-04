@@ -6,8 +6,8 @@ const pathRoot = (location.host === 'localhost')?
 const urlsToCache = [
 	'',
 	'index.html',
-	'eins.html',
-	'zwei.html',
+	'index-2.html',
+	'index-3.html',
 	'app.js',
 	'style.css',
 	'manifest.json'
